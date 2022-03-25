@@ -1,2 +1,3 @@
 # Exercicio1_Java
-Retorna o número digitado escrito por extenso.
+Programa que lê um número entre 0 e 999, e o retorna escrito por extenso.
+(Maria Eduarda e Polianna).
